@@ -1,0 +1,6 @@
+{
+  "name": "jasb Tech",
+  "description": "Tienda de tecnología moderna con catálogo de productos, promociones, testimonios y formulario de contacto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
